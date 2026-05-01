@@ -1,0 +1,30 @@
+# 50/50 iterations complete ✅ (19264.81s)
+# Results saved to C:\Users\james\Desktop\PycharmProjects\PythonProject2\runs\obb\tune
+# Best fitness=0.44389 observed at iteration 16
+# Best fitness metrics are {'metrics/precision(B)': 0.58329, 'metrics/recall(B)': 0.64936, 'metrics/mAP50(B)': 0.65508, 'metrics/mAP50-95(B)': 0.44389, 'val/box_loss': 1.31177, 'val/cls_loss': 1.19698, 'val/dfl_loss': 0.07935, 'val/angle_loss': 0.0603, 'fitness': 0.44389}
+# Best fitness model is C:\Users\james\Desktop\PycharmProjects\PythonProject2\runs\obb\train
+lr0: 0.01
+lrf: 0.01001
+momentum: 0.93772
+weight_decay: 0.00093
+warmup_epochs: 2.40107
+warmup_momentum: 0.85494
+box: 7.90802
+cls: 0.44164
+dfl: 1.46099
+hsv_h: 0.02011
+hsv_s: 0.70641
+hsv_v: 0.35329
+degrees: 0.00242
+translate: 0.11274
+scale: 0.34583
+shear: 0.0
+perspective: 0.00033
+flipud: 0.0
+fliplr: 0.57586
+bgr: 0.00741
+mosaic: 1.0
+mixup: 0.00167
+cutmix: 8.0e-05
+copy_paste: 0.00423
+close_mosaic: 7
